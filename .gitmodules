@@ -1,0 +1,3 @@
+[submodule "libs/mathEngine"]
+	path = libs/mathEngine
+	url = git@github.com:ismustachio/mathEngine.git
